@@ -1,3 +1,5 @@
 "This is new"
 This is a new line
 This is a new line in dev
+"This is new" 
+This is feature/sample1
