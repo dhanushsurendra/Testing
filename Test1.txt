@@ -1,3 +1,2 @@
 "This is new"
 This is a new line
-This is feature/sample1
